@@ -47,9 +47,9 @@ function NavbarComponenet() {
               </li>
 
               <li className="nav-item btn btn-primary btn-sm">
-                <a className="nav-link " href="#!" aria-disabled="true">
+                <Link className="nav-link " to="/singup" aria-disabled="true">
                   SignUp
-                </a>
+                </Link>
               </li>
               <li className="nav-item btn-success btn btn-sm mx-2">
                 <a className="nav-link " href="#!" aria-disabled="true">
